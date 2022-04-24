@@ -29,6 +29,6 @@ To run the application, in your terminal:
  * $ ./run.py
 
 ### Technologies Used
-* Python3.6
+* Python3.9
 #### License
 MIT ©2022 Loise Mulwa
