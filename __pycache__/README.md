@@ -1,5 +1,5 @@
-# Password Locker
-## Built By Hamida Mstafa
+# Password~Locker
+## Built By Loise Mulwa
 ### Description
 Password Locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accounts.
 
@@ -14,7 +14,7 @@ These are the behaviours/features that the application implements for use by a u
 
 ### SetUp / Installation Requirements
 ##### Prerequisites
-* python3.6
+* python3.9
 * pip
 
 ### Cloning
@@ -31,4 +31,4 @@ To run the application, in your terminal:
 ### Technologies Used
 * Python3.6
 #### License
-MIT ©2017 Hamida-Mstafa
+MIT ©2022 Loise Mulwa
