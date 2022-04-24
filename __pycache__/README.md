@@ -20,11 +20,11 @@ These are the behaviours/features that the application implements for use by a u
 ### Cloning
 In your terminal:
 
- * $ git clone https://github.com/hamida-mstafa/pass-locker
- * $ cd Passlock
+ * $ git clone https://github.com/LoiseMulwa/password-locker.git
+ * $ cd password-locker
 ### Running the Application
 To run the application, in your terminal:
- * $ #!/usr/bin/env python3.6
+ * $ #!/usr/bin/env python3.9
  * $ chmod +x run.py
  * $ ./run.py
 
