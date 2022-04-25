@@ -186,7 +186,7 @@ def main():
             print('ABOUT PASSLOCK')
             print(
                 '''
-            Passlock is an sort of script application that allows you to store  password from different ccounts. In case of many accounts on social media passlock can be used to store the different password from the social media  accounts.Instead of having to use one password for all your sites so that you can remember  easily,you can use different password and store them in passlock and only have to remember your passlock password. This can prove to be very helpful especially  against hackers.
+            Passlock is a sort of script application that allows you to store  password from different accounts. In case of many accounts on social media passlock can be used to store the different password from the social media  accounts.Instead of having to use one password for all your sites so that you can remember  easily,you can use different password and store them in passlock and only have to remember your passlock password. 
                                     ''')
 
         elif choice == 4:
@@ -199,7 +199,7 @@ def main():
                 print('NO ACCOUNTS')
 
         elif choice == 5:
-            print('adios')
+            print('thankyou')
             break
 
 
