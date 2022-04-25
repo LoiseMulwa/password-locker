@@ -16,6 +16,7 @@ These are the behaviours/features that the application implements for use by a u
 ##### Prerequisites
 * python3.9
 * pip
+* pyperclip
 
 ### Cloning
 In your terminal:
@@ -27,6 +28,9 @@ To run the application, in your terminal:
  * $ #!/usr/bin/env python3.9
  * $ chmod +x run.py
  * $ ./run.py
+
+ ### Testing the application
+ $ python3.9 locker.py
 
 ### Technologies Used
 * Python3.9
