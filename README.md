@@ -31,4 +31,4 @@ To run the application, in your terminal:
 ### Technologies Used
 * Python3.9
 #### License
-Click [LICENSE] to view 
+Click to view License [Click to view license](LICENSE)
