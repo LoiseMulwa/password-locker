@@ -31,4 +31,4 @@ To run the application, in your terminal:
 ### Technologies Used
 * Python3.9
 #### License
-MIT ©2022 Loise Mulwa
+Click [licence] to view
